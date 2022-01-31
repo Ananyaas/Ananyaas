@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👯 I’m looking to collaborate on **OpenCV and Deep Learning**
+- 👯 I’m looking to collaborate on **OpenCV and Deep Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ananyaas](https://github.com/ananyaas)
 
